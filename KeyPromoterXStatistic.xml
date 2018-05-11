@@ -6,7 +6,15 @@
           <IdeaActionID>ActivateRunToolWindow</IdeaActionID>
           <ShortCut>'Alt+4'</ShortCut>
           <Description>Run</Description>
-          <Count>1</Count>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'app'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'Shift+F10'</ShortCut>
+          <Description>Run 'app'</Description>
+          <Count>4</Count>
         </Item>
       </Statistic>
       <Statistic Action="Settings...">
@@ -14,7 +22,7 @@
           <IdeaActionID>ShowSettings</IdeaActionID>
           <ShortCut>'Ctrl+Alt+S'</ShortCut>
           <Description>Settings...</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
     </option>
