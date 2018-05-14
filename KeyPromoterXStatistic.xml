@@ -99,6 +99,18 @@
       </Statistic>
     </option>
     <option name="suppressed">
+      <Statistic Action="Clean Project">
+        <Item>
+          <IdeaActionID>CleanGradleProject</IdeaActionID>
+          <Description>Clean Project</Description>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rebuild Project">
+        <Item>
+          <IdeaActionID>RebuildGradleProject</IdeaActionID>
+          <Description>Rebuild Project</Description>
+        </Item>
+      </Statistic>
       <Statistic Action="Toggle Line Breakpoint">
         <Item>
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
