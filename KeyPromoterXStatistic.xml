@@ -78,7 +78,7 @@
           <IdeaActionID>ActivateRunToolWindow</IdeaActionID>
           <ShortCut>'Alt+4'</ShortCut>
           <Description>Run</Description>
-          <Count>11</Count>
+          <Count>13</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'app'">
@@ -118,11 +118,17 @@
           <IdeaActionID>ActivateVersionControlToolWindow</IdeaActionID>
           <ShortCut>'Alt+9'</ShortCut>
           <Description>Version Control</Description>
-          <Count>2</Count>
+          <Count>3</Count>
         </Item>
       </Statistic>
     </option>
     <option name="suppressed">
+      <Statistic Action="Android Profiler">
+        <Item>
+          <IdeaActionID>ActivateAndroidProfilerToolWindow</IdeaActionID>
+          <Description>Android Profiler</Description>
+        </Item>
+      </Statistic>
       <Statistic Action="Clean Project">
         <Item>
           <IdeaActionID>CleanGradleProject</IdeaActionID>
