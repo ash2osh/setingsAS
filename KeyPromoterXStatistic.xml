@@ -25,14 +25,6 @@
           <Count>4</Count>
         </Item>
       </Statistic>
-      <Statistic Action="Copy">
-        <Item>
-          <IdeaActionID>$Copy</IdeaActionID>
-          <ShortCut>'Ctrl+C' or 'Ctrl+Insert'</ShortCut>
-          <Description>Copy</Description>
-          <Count>2</Count>
-        </Item>
-      </Statistic>
       <Statistic Action="Debug 'app'">
         <Item>
           <IdeaActionID>Debug</IdeaActionID>
@@ -49,14 +41,6 @@
           <Count>13</Count>
         </Item>
       </Statistic>
-      <Statistic Action="Logcat">
-        <Item>
-          <IdeaActionID>ActivateLogcatToolWindow</IdeaActionID>
-          <ShortCut>'Alt+6'</ShortCut>
-          <Description>Logcat</Description>
-          <Count>5</Count>
-        </Item>
-      </Statistic>
       <Statistic Action="Rename...">
         <Item>
           <IdeaActionID>RenameElement</IdeaActionID>
@@ -71,14 +55,6 @@
           <ShortCut>'F9'</ShortCut>
           <Description>Resume Program</Description>
           <Count>4</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Run">
-        <Item>
-          <IdeaActionID>ActivateRunToolWindow</IdeaActionID>
-          <ShortCut>'Alt+4'</ShortCut>
-          <Description>Run</Description>
-          <Count>13</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'app'">
@@ -135,6 +111,22 @@
           <Description>Clean Project</Description>
         </Item>
       </Statistic>
+      <Statistic Action="Copy">
+        <Item>
+          <IdeaActionID>$Copy</IdeaActionID>
+          <ShortCut>'Ctrl+C' or 'Ctrl+Insert'</ShortCut>
+          <Description>Copy</Description>
+          <Count>3</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Logcat">
+        <Item>
+          <IdeaActionID>ActivateLogcatToolWindow</IdeaActionID>
+          <ShortCut>'Alt+6'</ShortCut>
+          <Description>Logcat</Description>
+          <Count>6</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Make Project">
         <Item>
           <IdeaActionID>MakeGradleProject</IdeaActionID>
@@ -155,6 +147,14 @@
         <Item>
           <IdeaActionID>RebuildGradleProject</IdeaActionID>
           <Description>Rebuild Project</Description>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run">
+        <Item>
+          <IdeaActionID>ActivateRunToolWindow</IdeaActionID>
+          <ShortCut>'Alt+4'</ShortCut>
+          <Description>Run</Description>
+          <Count>15</Count>
         </Item>
       </Statistic>
       <Statistic Action="Toggle Line Breakpoint">
