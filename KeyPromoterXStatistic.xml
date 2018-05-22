@@ -22,7 +22,7 @@
           <IdeaActionID>CheckinProject</IdeaActionID>
           <ShortCut>'Ctrl+K'</ShortCut>
           <Description>Commit...</Description>
-          <Count>8</Count>
+          <Count>9</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'app'">
@@ -46,7 +46,7 @@
           <IdeaActionID>HideAllWindows</IdeaActionID>
           <ShortCut>'Ctrl+Shift+F12'</ShortCut>
           <Description>Hide All Windows</Description>
-          <Count>2</Count>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Project">
@@ -65,14 +65,6 @@
           <Count>3</Count>
         </Item>
       </Statistic>
-      <Statistic Action="Restore Windows">
-        <Item>
-          <IdeaActionID>HideAllWindows</IdeaActionID>
-          <ShortCut>'Ctrl+Shift+F12'</ShortCut>
-          <Description>Restore Windows</Description>
-          <Count>1</Count>
-        </Item>
-      </Statistic>
       <Statistic Action="Resume Program">
         <Item>
           <IdeaActionID>Resume</IdeaActionID>
@@ -86,7 +78,7 @@
           <IdeaActionID>ShowSettings</IdeaActionID>
           <ShortCut>'Ctrl+Alt+S'</ShortCut>
           <Description>Settings...</Description>
-          <Count>5</Count>
+          <Count>4</Count>
         </Item>
       </Statistic>
       <Statistic Action="Step Over">
@@ -135,6 +127,14 @@
           <Count>3</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Cut">
+        <Item>
+          <IdeaActionID>$Cut</IdeaActionID>
+          <ShortCut>'Ctrl+X' or 'Shift+Delete'</ShortCut>
+          <Description>Cut</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Declaration">
         <Item>
           <IdeaActionID>GotoDeclaration</IdeaActionID>
@@ -179,6 +179,14 @@
         <Item>
           <IdeaActionID>RebuildGradleProject</IdeaActionID>
           <Description>Rebuild Project</Description>
+        </Item>
+      </Statistic>
+      <Statistic Action="Restore Windows">
+        <Item>
+          <IdeaActionID>HideAllWindows</IdeaActionID>
+          <ShortCut>'Ctrl+Shift+F12'</ShortCut>
+          <Description>Restore Windows</Description>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run">
