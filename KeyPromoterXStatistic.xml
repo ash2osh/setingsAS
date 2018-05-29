@@ -22,15 +22,7 @@
           <IdeaActionID>CheckinProject</IdeaActionID>
           <ShortCut>'Ctrl+K'</ShortCut>
           <Description>Commit...</Description>
-          <Count>10</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Debug 'app'">
-        <Item>
-          <IdeaActionID>Debug</IdeaActionID>
-          <ShortCut>'Shift+F9'</ShortCut>
-          <Description>Debug 'app'</Description>
-          <Count>2</Count>
+          <Count>12</Count>
         </Item>
       </Statistic>
       <Statistic Action="Find in Path...">
@@ -65,6 +57,14 @@
           <Count>3</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Replace...">
+        <Item>
+          <IdeaActionID>Replace</IdeaActionID>
+          <ShortCut>'Ctrl+R'</ShortCut>
+          <Description>Replace...</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Resume Program">
         <Item>
           <IdeaActionID>Resume</IdeaActionID>
@@ -94,7 +94,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop 'app'</Description>
-          <Count>2</Count>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Version Control">
@@ -133,6 +133,14 @@
           <ShortCut>'Ctrl+X' or 'Shift+Delete'</ShortCut>
           <Description>Cut</Description>
           <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Debug 'app'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'Shift+F9'</ShortCut>
+          <Description>Debug 'app'</Description>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Declaration">
