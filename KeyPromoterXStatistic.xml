@@ -22,7 +22,7 @@
           <IdeaActionID>CheckinProject</IdeaActionID>
           <ShortCut>'Ctrl+K'</ShortCut>
           <Description>Commit...</Description>
-          <Count>12</Count>
+          <Count>13</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'app'">
@@ -111,6 +111,12 @@
         <Item>
           <IdeaActionID>ActivateAndroidProfilerToolWindow</IdeaActionID>
           <Description>Android Profiler</Description>
+        </Item>
+      </Statistic>
+      <Statistic Action="Build APK(s)">
+        <Item>
+          <IdeaActionID>Android.BuildApk</IdeaActionID>
+          <Description>Build APK(s)</Description>
         </Item>
       </Statistic>
       <Statistic Action="Clean Project">
