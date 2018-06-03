@@ -179,6 +179,12 @@
           <Count>3</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Preview">
+        <Item>
+          <IdeaActionID>ActivatePreviewToolWindow</IdeaActionID>
+          <Description>Preview</Description>
+        </Item>
+      </Statistic>
       <Statistic Action="Project">
         <Item>
           <IdeaActionID>ActivateProjectToolWindow</IdeaActionID>
