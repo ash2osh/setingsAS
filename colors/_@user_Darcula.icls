@@ -3,13 +3,18 @@
     <property name="created">2019-04-21T07:52:39</property>
     <property name="ide">AndroidStudio</property>
     <property name="ideVersion">3.4.0.18</property>
-    <property name="modified">2019-04-21T11:22:22</property>
+    <property name="modified">2019-04-21T12:39:29</property>
     <property name="originalScheme">Darcula</property>
   </metaInfo>
   <attributes>
     <option name="LOG_DEBUG_OUTPUT">
       <value>
-        <option name="FOREGROUND" value="6eca30" />
+        <option name="FOREGROUND" value="6dff3b" />
+      </value>
+    </option>
+    <option name="LOG_INFO_OUTPUT">
+      <value>
+        <option name="FOREGROUND" value="5e7bc0" />
       </value>
     </option>
     <option name="LOG_VERBOSE_OUTPUT">
