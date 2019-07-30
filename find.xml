@@ -1,9 +1,9 @@
 <application>
   <component name="FindSettings">
     <option name="caseSensitive" value="true" />
-    <option name="customScope" value="Project 'AutismApp'" />
-    <option name="defaultScopeName" value="Project 'AutismApp'" />
+    <option name="customScope" value="Project 'yourpharmacy_app'" />
+    <option name="defaultScopeName" value="Project 'yourpharmacy_app'" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="SEARCH_SCOPE" value="Project 'AutismApp'" />
+    <option name="SEARCH_SCOPE" value="Project 'yourpharmacy_app'" />
   </component>
 </application>
